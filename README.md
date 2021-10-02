@@ -7,3 +7,5 @@
 - произведена оценка некоторых продуктовых метрик (DAU, MAU, WAU), метрик электронной коммерции (средний чек, LTV), маркетинговых метрик (CAC, ROMI).
 
 **Основные используемые библиотеки:** Pandas, Seaborn, Scipy. 
+
+nbvwer: https://nbviewer.jupyter.org/github/annakonkina/marketing_yandex.afisha/blob/main/3.%20%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%90%D1%84%D0%B8%D1%88%D0%B8.ipynb
